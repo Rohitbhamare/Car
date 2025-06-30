@@ -11,4 +11,4 @@
   status = 200
 
 [context.production.environment]
-  VITE_API_URL = "https://your-backend-app.herokuapp.com"
+  VITE_API_URL = "https://backend-5kgz.onrender.com"
